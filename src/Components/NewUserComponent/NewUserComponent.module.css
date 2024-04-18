@@ -1,0 +1,18 @@
+.newuserform{
+    width: 100%;
+    display: flex; 
+    flex-direction:column; 
+    align-items:flex-start;
+    justify-content:flex-start;
+    row-gap: 1vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.newuserlabel, .newuserinput{
+    margin-left: 5vh;
+}
+
+.newuserinput{
+    width: 75%;
+}

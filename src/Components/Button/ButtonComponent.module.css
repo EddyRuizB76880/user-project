@@ -1,0 +1,9 @@
+.buttoncomponent{
+    background-color: #5d388c;
+    border: none;
+    color:white;
+    height: auto;
+    width: auto;
+    margin-left: 5vh;
+    font-size: 3vh;
+}
